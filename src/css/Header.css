@@ -38,3 +38,16 @@
     width: 15wv;
     margin-right: 80px;
 }
+
+.header__right > p {
+    padding: 15px;
+}
+
+.headerRight__languageIcon {
+    padding: 10px;
+}
+
+.headerRight__expandMoreIcon {
+    padding-left: 10px;
+    padding-right: 5px;
+}
