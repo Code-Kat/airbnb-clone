@@ -1,0 +1,18 @@
+.card {
+    margin: 10px;
+    max-height: 320px;
+
+}
+
+.card > img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    object-fit: fill;
+    min-width: 300px;
+    min-height: 200px;
+    
+
+}
+
