@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Code-Kat/airbnb-clone.git/static/css/main.8f0a5d68.chunk.css",
-    "main.js": "/Code-Kat/airbnb-clone.git/static/js/main.f6758abd.chunk.js",
-    "main.js.map": "/Code-Kat/airbnb-clone.git/static/js/main.f6758abd.chunk.js.map",
-    "runtime-main.js": "/Code-Kat/airbnb-clone.git/static/js/runtime-main.78478d8d.js",
-    "runtime-main.js.map": "/Code-Kat/airbnb-clone.git/static/js/runtime-main.78478d8d.js.map",
+    "main.css": "/Code-Kat/airbnb-clone.git/static/css/main.5cffb018.chunk.css",
+    "main.js": "/Code-Kat/airbnb-clone.git/static/js/main.a8c51479.chunk.js",
+    "main.js.map": "/Code-Kat/airbnb-clone.git/static/js/main.a8c51479.chunk.js.map",
+    "runtime-main.js": "/Code-Kat/airbnb-clone.git/static/js/runtime-main.7e4f5e5d.js",
+    "runtime-main.js.map": "/Code-Kat/airbnb-clone.git/static/js/runtime-main.7e4f5e5d.js.map",
     "static/css/2.06382735.chunk.css": "/Code-Kat/airbnb-clone.git/static/css/2.06382735.chunk.css",
-    "static/js/2.4701ea3f.chunk.js": "/Code-Kat/airbnb-clone.git/static/js/2.4701ea3f.chunk.js",
-    "static/js/2.4701ea3f.chunk.js.map": "/Code-Kat/airbnb-clone.git/static/js/2.4701ea3f.chunk.js.map",
-    "static/js/3.1fb14261.chunk.js": "/Code-Kat/airbnb-clone.git/static/js/3.1fb14261.chunk.js",
-    "static/js/3.1fb14261.chunk.js.map": "/Code-Kat/airbnb-clone.git/static/js/3.1fb14261.chunk.js.map",
+    "static/js/2.185b3ec1.chunk.js": "/Code-Kat/airbnb-clone.git/static/js/2.185b3ec1.chunk.js",
+    "static/js/2.185b3ec1.chunk.js.map": "/Code-Kat/airbnb-clone.git/static/js/2.185b3ec1.chunk.js.map",
+    "static/js/3.6ee0c0b5.chunk.js": "/Code-Kat/airbnb-clone.git/static/js/3.6ee0c0b5.chunk.js",
+    "static/js/3.6ee0c0b5.chunk.js.map": "/Code-Kat/airbnb-clone.git/static/js/3.6ee0c0b5.chunk.js.map",
     "index.html": "/Code-Kat/airbnb-clone.git/index.html",
     "static/css/2.06382735.chunk.css.map": "/Code-Kat/airbnb-clone.git/static/css/2.06382735.chunk.css.map",
-    "static/css/main.8f0a5d68.chunk.css.map": "/Code-Kat/airbnb-clone.git/static/css/main.8f0a5d68.chunk.css.map",
-    "static/js/2.4701ea3f.chunk.js.LICENSE.txt": "/Code-Kat/airbnb-clone.git/static/js/2.4701ea3f.chunk.js.LICENSE.txt"
+    "static/css/main.5cffb018.chunk.css.map": "/Code-Kat/airbnb-clone.git/static/css/main.5cffb018.chunk.css.map",
+    "static/js/2.185b3ec1.chunk.js.LICENSE.txt": "/Code-Kat/airbnb-clone.git/static/js/2.185b3ec1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.78478d8d.js",
+    "static/js/runtime-main.7e4f5e5d.js",
     "static/css/2.06382735.chunk.css",
-    "static/js/2.4701ea3f.chunk.js",
-    "static/css/main.8f0a5d68.chunk.css",
-    "static/js/main.f6758abd.chunk.js"
+    "static/js/2.185b3ec1.chunk.js",
+    "static/css/main.5cffb018.chunk.css",
+    "static/js/main.a8c51479.chunk.js"
   ]
 }
