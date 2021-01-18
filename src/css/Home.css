@@ -4,3 +4,9 @@
    align-items: center;
    padding: 30px;
 }
+
+@media(max-width: 525px) {
+   .home__section {
+      flex-direction: column;
+   }
+}

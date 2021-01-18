@@ -3,6 +3,7 @@ import './css/Banner.css';
 import { Button } from "@material-ui/core";
 import Search from './Search';
 import { useHistory } from 'react-router-dom';
+import MobileSearch from "./MobileSearch";
 
 function Banner() {
     const history= useHistory();
@@ -11,8 +12,8 @@ function Banner() {
     return (
         <div className='banner'>
             <div className="banner__search">
-                {showSearch && <Search />}
-
+                <div className="banner__bigSearch">{showSearch && <Search />}</div>
+                <div className="banner__smallSearch">{showSearch && <MobileSearch />}</div>
                 <Button 
                 onClick={()=>setShowSearch(!showSearch)}
                 className="banner__searchButton"

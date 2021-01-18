@@ -24,7 +24,7 @@ function Home() {
 
                 <Card 
                     src="https://a0.muscache.com/im/pictures/fbe849a4-841a-41b3-b770-419402a6316f.jpg?im_w=320"
-                    title="Animals welcome"
+                    title="Pets welcome"
                     description="Stays where pets are welcome."
                 />
 

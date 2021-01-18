@@ -1,0 +1,146 @@
+.mobileSearch{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+    background-color: white;
+    width: 100vw;
+    min-height: 60vh;
+}
+
+.mobileSearch__info{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    width: 25em;
+    margin-top:10px;
+}
+
+.mobileSearch__info > h1{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.mobileSearch__info > p{
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.mobileSearch__city {
+    display: flex;
+    padding: 0.5em;
+    width: 24em;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+    margin-top: 5%;
+    margin-bottom: 15px;
+}
+.mobileSearch__city >input {
+    outline-width: 0ch;
+    border-width: 0ch;
+}
+
+
+.mobileSearch__dates {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 25em;
+    margin-bottom: 15px
+}
+
+.mobileSearch__date {
+    display: flex;
+    width: fit-content;
+    border: 1px solid lightgray;
+    padding: 0.5em;
+    border-radius: 6px;
+}
+
+.mobileSearch__date > input{
+    outline-width: 0ch;
+    border-width: 0ch;
+}
+
+.mobileSearch__date > p {
+    font-size: 8px;
+    font-weight: 600;
+}
+
+.mobileSearch__travellers {
+    display:flex;
+    justify-content: space-between;
+    width: 25em;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.mobileSearch__traveller {
+    display:flex;
+    flex-direction: column;
+    border: 1px solid lightgray;
+    padding: 0.5em;
+    border-radius: 6px;
+    width: 10em;
+    
+}
+
+.mobileSearch__traveller > input{
+    display: inline;
+    text-align: center;
+    outline-width: 0ch;
+    border-width: 0ch;
+    
+}
+
+.mobileSearch__traveller > p {
+    font-size: 8px;
+    font-weight: 600;
+}
+
+.mobileSearch__button{
+    margin-bottom: 10px!important;
+    color:white!important;
+    background-color: #ff7779!important;
+    text-transform: inherit!important;
+    font-weight: 600!important;
+    width: 29em!important;
+}
+
+.mobileSearch > button:hover {
+background-color: white!important;
+color: #ff7779!important;
+}
+
+@media(max-width:500px) {
+
+    .mobileSearch__info{
+        width: 17em;
+    }
+
+    .mobileSearch__city{
+        width: 17em;
+    }
+
+    .mobileSearch__dates{
+        width: 18em;
+    }
+
+    .mobileSearch__date{
+        width: 7.5em;
+    }
+    
+    .mobileSearch__travellers{
+        width: 18em
+    }
+
+    .mobileSearch__traveller{
+        width: 7.5em;
+    }
+    
+    .mobileSearch__button{
+        width: 21em!important;
+    }
+
+}

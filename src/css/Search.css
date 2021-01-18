@@ -47,3 +47,18 @@
     background-color: white;
     color: #ff7779;
 }
+
+
+
+@media (max-width: 950px) {
+    .search{
+        left: 15%;
+    }
+}
+
+
+@media (max-width: 800px) {
+    .search{
+        left: 7%;
+    }
+}

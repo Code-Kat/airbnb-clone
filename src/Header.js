@@ -18,8 +18,8 @@ function Header() {
             </Link>
 
             <div className="header__center"> 
-                <input type="text" />
-                <SearchIcon />
+                <input type="text"/>
+                <SearchIcon className="header__searchIcon"/>
             </div>
 
             <div className="header__right">

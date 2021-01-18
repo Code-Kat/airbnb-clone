@@ -18,6 +18,19 @@ function SearchResult({
             <FavoriteBorderIcon className="searchResult__heart"/>
 
             <div className="searchResult__info">
+
+                 <div className="searchResult__infoMobile">
+                    
+                    <div className="searchResult__stars">
+                        <StarIcon className="searchResult__star"/>
+                        <p><strong>{star}</strong></p>
+                    </div>
+                    <div className="searchResult__priceMobile">
+                        <h2>{price}</h2>
+                    </div>
+                
+                </div>
+
                 <div className="searchResult__infoTop">
                     <p>{location}</p>
                     <h3>{title}</h3>
@@ -26,6 +39,7 @@ function SearchResult({
                 </div>
 
                 <div className="searchResult__infoBottom">
+
                     <div className="searchResult__stars">
                         <StarIcon className="searchResult__star"/>
                         <p><strong>{star}</strong></p>
@@ -36,6 +50,7 @@ function SearchResult({
                     </div>
                 
                 </div>
+
             </div>
         </div>
     )
