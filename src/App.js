@@ -24,10 +24,7 @@ function App() {
 
       <Footer />
     </Router>
-
-    {/* SearchPage */}
-
-        {/* ... */}
+    
     </div>
   );
 }
